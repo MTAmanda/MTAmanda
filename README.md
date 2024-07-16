@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtamanda&label=Profile%20views&color=0e75b6&style=flat" alt="mtamanda" /> </p>
 
+- :point_right: See my Portfolio [HERE](https://mtamanda.github.io/)
 - 🔭 I’m currently working on [ProPilot](https://propilot.co/)
 
 - 🌱 I’m currently learning **JavaScript**
-
-- 📫 How to reach me **mateta.amanda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
